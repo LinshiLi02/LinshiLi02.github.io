@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/Users/lilinshi/Documents/GitHub/LinshiLi02.github.io/linshili.jpeg" class="floatpic">
+<img src="assets/images/linshili.jpeg" class="floatpic">
 
 Here is **Linshi Li (Claire, 李林师)**.<br>
 
