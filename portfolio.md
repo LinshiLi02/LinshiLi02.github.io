@@ -162,5 +162,56 @@ This portfolio showcases selected projects from my undergraduate studies and the
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
 
-
 <br>In the immersive **_Shimmering Sea_** installation, aquatic creatures are crafted from **plastic bags and marine debris**, transforming trash into life-like forms.    Visitors interact with the fish through **gestures and sound**, experiencing their **distress** via **vibrations** and **flashing lights**—a sensory metaphor for the silent suffering beneath the surface.
+
+## Space Drinking
+
+<style>
+  .clickable-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 600px; /* 限制最大宽度可选 */
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  .clickable-img {
+    width: 100%;
+    border-radius: 12px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  .clickable-img:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+    cursor: pointer;
+  }
+
+  .click-icon {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 4px 6px;
+    border-radius: 6px;
+    pointer-events: none;
+  }
+
+  .click-text {
+    margin-top: 6px;
+    font-size: 14px;
+    color: #555;
+  }
+</style>
+
+<div class="clickable-wrapper">
+  <a href="https://linshili02.github.io/file/portfolio4.pdf" target="_blank">
+    <span class="click-icon">👆</span>
+    <img src="/images/space.png" alt="Space" class="clickable-img">
+  </a>
+  <p class="click-text">Click to view portfolio PDF</p>
+</div>
+
+<br>This project explores the use of **edible film packaging** to design a series of innovative products aimed at **improving the drinking experience** for astronauts. By integrating **safety, convenience, and sustainability**, the design offers a creative solution tailored to the unique conditions of space habitation.
