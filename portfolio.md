@@ -115,8 +115,6 @@ This portfolio showcases selected projects from my undergraduate studies and the
 
 ## Shimmering Sea
 
-## 
-
 <style>
   .clickable-wrapper {
     position: relative;
@@ -159,7 +157,7 @@ This portfolio showcases selected projects from my undergraduate studies and the
 <div class="clickable-wrapper">
   <a href="https://linshili02.github.io/file/portfolio3.pdf" target="_blank">
     <span class="click-icon">👆</span>
-    <img src="/images/sea.jpg" alt="Sea" class="clickable-img">
+    <img src="/images/sea.png" alt="Sea" class="clickable-img">
   </a>
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
