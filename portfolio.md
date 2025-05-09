@@ -10,8 +10,8 @@ This portfolio showcases selected projects from my undergraduate studies and the
 
 ## BEBE SONG
 
-<div style="width: 33%; margin: 0 auto; text-align: center;">
-  <a src="/files/Reference Contact-HanlinCAI.pdf" target="_blank">
+<div style="width: 100%; margin: 0 auto; text-align: center;">
+  <a src="/files/portfolio1.pdf" target="_blank">
     <img src="/images/bebesong.png" alt="BeBe" style="width: 100%; border-radius: 12px;">
   </a>
 </div>
