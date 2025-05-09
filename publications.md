@@ -6,9 +6,9 @@ title: Publications
 
 ## Conference Paper
 
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
+- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>**Linshi Li**, Hanlin Cai<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>**Linshi Li**, Xianjinghua Chen, Yutian Qin and Hanlin Cai<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
 
 
 <br>
