@@ -8,10 +8,12 @@ title: Portfolio
 
 This portfolio showcases selected projects from my undergraduate studies and the first semester of my Master’s program, reflecting my evolving approach to thoughtful, human-centered design. From practical systems that support daily well-being to conceptual explorations that question future possibilities, my work balances creativity with critical inquiry.
 
-## Swimming & Surfing
+## BEBE SONG
 
-<div class="third">
-<img src="/images/bebesong.png">
+<div style="width: 33%; margin: 0 auto; text-align: center;">
+  <a src="/files/Reference Contact-HanlinCAI.pdf" target="_blank">
+    <img src="/images/bebesong.png" alt="BeBe" style="width: 100%; border-radius: 12px;">
+  </a>
 </div>
 
 <br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
