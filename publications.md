@@ -16,7 +16,7 @@ title: Publications
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Linshi Li** (Advisor: Shu Chen). <br>
+- [Integrating Product Design with Website: Digital Fusion of Chinese-style Picnic Experience](https://linshili02.github.io/file/Linshi Li-FYP Report.pdf)<br>**Linshi Li** (Advisor: Shu Chen). <br>
 
   <br>
 
