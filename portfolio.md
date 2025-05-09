@@ -11,7 +11,7 @@ This portfolio showcases selected projects from my undergraduate studies and the
 ## BEBE SONG
 
 <div style="width: 100%; margin: 0 auto; text-align: center;">
-  <a src="/files/portfolio1.pdf" target="_blank">
+  <a href="https://linshili02.github.io/file/portfolio1.pdf" target="_blank">
     <img src="/images/bebesong.png" alt="BeBe" style="width: 100%; border-radius: 12px;">
   </a>
 </div>
