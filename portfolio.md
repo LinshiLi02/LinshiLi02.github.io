@@ -10,10 +10,51 @@ This portfolio showcases selected projects from my undergraduate studies and the
 
 ## BEBE SONG
 
-<div style="width: 100%; margin: 0 auto; text-align: center;">
+<style>
+  .clickable-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 600px; /* 限制最大宽度可选 */
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .clickable-img {
+    width: 100%;
+    border-radius: 12px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  .clickable-img:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+    cursor: pointer;
+  }
+
+  .click-icon {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 4px 6px;
+    border-radius: 6px;
+    pointer-events: none;
+  }
+
+  .click-text {
+    margin-top: 6px;
+    font-size: 14px;
+    color: #555;
+  }
+</style>
+
+<div class="clickable-wrapper">
   <a href="https://linshili02.github.io/file/portfolio1.pdf" target="_blank">
-    <img src="/images/bebesong.png" alt="BeBe" style="width: 100%; border-radius: 12px;">
+    <span class="click-icon">👆</span>
+    <img src="/images/bebesong.png" alt="BeBe" class="clickable-img">
   </a>
+  <p class="click-text">Click to view portfolio PDF</p>
 </div>
 
 <br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
