@@ -209,7 +209,7 @@ This portfolio showcases selected projects from my undergraduate studies and the
 <div class="clickable-wrapper">
   <a href="https://linshili02.github.io/file/portfolio4.pdf" target="_blank">
     <span class="click-icon">👆</span>
-    <img src="/images/space.png" alt="Space" class="clickable-img">
+    <img src="/images/space.jpg" alt="Space" class="clickable-img">
   </a>
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
