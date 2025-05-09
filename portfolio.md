@@ -58,7 +58,9 @@ This portfolio showcases selected projects from my undergraduate studies and the
 </div>
 
 
-<br>The number of hearing-impaired children is growing globally. With proper training, these children can regain their listening and communication skills. BeBe Song is a series of learning tools that combine a mobile app, an AR-enhanced stereoscopic book, and simple VR experiences to support language learning.In this project, I explored how **VR/AR as interactive technologies** can support the needs of **marginalized or special user groups**. The design process went beyond technical implementation, focusing on **addressing real-world challenges with empathy and relevance**.
+The number of hearing-impaired children is growing globally. With proper training, these children can regain their listening and communication skills. BeBe Song is a series of learning tools that combine a mobile app, an AR-enhanced stereoscopic book, and simple VR experiences to support language learning.In this project, I explored how **VR/AR as interactive technologies** can support the needs of **marginalized or special user groups**. The design process went beyond technical implementation, focusing on **addressing real-world challenges with empathy and relevance**.
+
+<br>
 
 ## Peony Picnic Flex
 
@@ -108,9 +110,9 @@ This portfolio showcases selected projects from my undergraduate studies and the
   </a>
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
+**Peony Picnic Flex** is a novel Chinese-style picnic service designed for **1–8 people**, crafted from **eco-friendly materials** such as **loofah** and **rice grains** to emphasize **sustainability**. Adaptable for various age groups, the **modular picnic box** transforms into a **backrest chair**, **baby seat**, or **picnic table**. It draws inspiration from **peony blossoms** and the **traditional Chinese wine game**, using **flowing water** to deliver food and evoke a sense of **poetic elegance**.
 
-
-<br>**Peony Picnic Flex** is a novel Chinese-style picnic service designed for **1–8 people**, crafted from **eco-friendly materials** such as **loofah** and **rice grains** to emphasize **sustainability**. Adaptable for various age groups, the **modular picnic box** transforms into a **backrest chair**, **baby seat**, or **picnic table**. It draws inspiration from **peony blossoms** and the **traditional Chinese wine game**, using **flowing water** to deliver food and evoke a sense of **poetic elegance**.
+<br>
 
 
 ## Shimmering Sea
@@ -162,7 +164,9 @@ This portfolio showcases selected projects from my undergraduate studies and the
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
 
-<br>In the immersive **_Shimmering Sea_** installation, aquatic creatures are crafted from **plastic bags and marine debris**, transforming trash into life-like forms.    Visitors interact with the fish through **gestures and sound**, experiencing their **distress** via **vibrations** and **flashing lights**—a sensory metaphor for the silent suffering beneath the surface.
+In the immersive **_Shimmering Sea_** installation, aquatic creatures are crafted from **plastic bags and marine debris**, transforming trash into life-like forms.    Visitors interact with the fish through **gestures and sound**, experiencing their **distress** via **vibrations** and **flashing lights**—a sensory metaphor for the silent suffering beneath the surface.
+
+<br>
 
 ## Space Drinking
 
@@ -214,4 +218,4 @@ This portfolio showcases selected projects from my undergraduate studies and the
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
 
-<br>This project explores the use of **edible film packaging** to design a series of innovative products aimed at **improving the drinking experience** for astronauts. By integrating **safety, convenience, and sustainability**, the design offers a creative solution tailored to the unique conditions of space habitation.
+This project explores the use of **edible film packaging** to design a series of innovative products aimed at **improving the drinking experience** for astronauts. By integrating **safety, convenience, and sustainability**, the design offers a creative solution tailored to the unique conditions of space habitation.
