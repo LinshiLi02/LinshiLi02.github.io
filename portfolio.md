@@ -110,7 +110,7 @@ The number of hearing-impaired children is growing globally. With proper trainin
   </a>
   <p class="click-text">Click to view portfolio PDF</p>
 </div>
-**Peony Picnic Flex** is a novel Chinese-style picnic service designed for **1–8 people**, crafted from **eco-friendly materials** such as **loofah** and **rice grains** to emphasize **sustainability**. Adaptable for various age groups, the **modular picnic box** transforms into a **backrest chair**, **baby seat**, or **picnic table**. It draws inspiration from **peony blossoms** and the **traditional Chinese wine game**, using **flowing water** to deliver food and evoke a sense of **poetic elegance**.
+**Peony Picnic Flex** is a novel Chinese-style picnic service designed for 1–8 people, crafted from **eco-friendly materials** to emphasize sustainability. Adaptable for various age groups, the **modular picnic box** transforms into a **backrest chair**, **baby seat**, or **picnic table**. It draws inspiration from peony blossoms and the traditional Chinese wine game, using **flowing water** to deliver food and evoke a sense of **poetic elegance**.
 
 <br>
 
