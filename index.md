@@ -29,7 +29,7 @@ My current research focuses on practical challenges in applying artificial intel
 
 ## News and Updates
 
-- **Sep 2025**：My project *KidVoice* has been accepted as a Work-in-Progress paper at [IDC 2025](https://idc.acm.org/2025/). See you in Iceland!
+- **Sep 2025**：In collaboration with Prof. Ray LC, I have submitted a paper to CHI 2026. Good luck to us!
 - **June 2025**：My project *KidVoice* has been accepted as a Work-in-Progress paper at [IDC 2025](https://idc.acm.org/2025/). See you in Iceland!
 - **March 2025：**My project *SeeMusic* won the Best Oral Presentation award at the IEEE ICEIT 2025 Conference.
 - **Jan 2025：**Very excited to work with Tencent on game and gamification projects！
