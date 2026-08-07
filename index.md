@@ -23,7 +23,7 @@ I am always open to conversations and collaborations. Feel free to reach out at 
 - Game Social Computing
 - Gamification Strategies
 
-My **current research explores digital ownership and how games and generative AI can support socially beneficial behavioural change.**
+My current research explores digital ownership and how games and generative AI can support socially beneficial behavioural change.
 
 ---
 
