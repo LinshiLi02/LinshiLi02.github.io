@@ -8,7 +8,7 @@ layout: page
 
 Here is **Linshi Li (Claire, 李林师)**.<br>
 
-I am a PhD student in Creative Media at City University of Hong Kong, working with [Prof. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) in the **Studio for Narrative Spaces**.<br>
+I am a PhD student in Creative Media at City University of Hong Kong, working with [Prof. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) in the [**Studio for Narrative Spaces**](https://recfro.github.io/).<br>
 
 My research explores **game design, generative AI, psychology, multimedia, and social computing**. Before beginning my PhD, I studied in the Department of Design at Goldsmiths, University of London, where I was advised by [Dr. Tobie Kerridge](https://www.gold.ac.uk/design/people/kerridge/) in the [Interactions & Experiments Studio](https://www.gold.ac.uk/pg/ma-design-expanded-practice/). I also joined a summer research programme with [Dr. Eleanor Dare](https://www.cdh.cam.ac.uk/about/people/eleanor-dare/) in the Virtual Reality Experiences group at Cambridge.<br>
 
