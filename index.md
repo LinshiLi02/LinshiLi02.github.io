@@ -29,6 +29,7 @@ My current research explores digital ownership and how games and generative AI c
 
 ## News and Updates
 
+- **Sep 2026**: I will begin my PhD journey in Creative Media at CityU's Studio for Narrative Spaces, under the supervision of Prof. Ray LC.
 - **Sep 2025**：In collaboration with Prof. Ray LC, I have submitted a paper to CHI 2026. Good luck to us!
 - **June 2025**：My project *KidVoice* has been accepted as a Work-in-Progress paper at [IDC 2025](https://idc.acm.org/2025/). See you in Iceland!
 - **March 2025：**My project *SeeMusic* won the Best Oral Presentation award at the IEEE ICEIT 2025 Conference.
