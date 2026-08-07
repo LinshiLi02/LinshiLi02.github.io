@@ -18,12 +18,12 @@ I am always open to conversations and collaborations. Feel free to reach out at 
 
 ## Research Interests
 
-- Child-centered AI Design
+- GenAI Design for Wellbeing
 - Interactive Design
-- Digital Storytelling
+- Game Social Computing
 - Gamification Strategies
 
-My current research focuses on practical challenges in applying artificial intelligence to child-centered and interactive design. I am particularly interested in the use of interactive technologies and large language models (LLMs) to enhance user experiences in education and accessibility technologies.
+My **current research explores digital ownership and how games and generative AI can support socially beneficial behavioural change.**
 
 ---
 
