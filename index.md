@@ -8,11 +8,11 @@ layout: page
 
 Here is **Linshi Li (Claire, 李林师)**.<br>
 
-I am a graduate student in the Department of Design at the University of London, Goldsmiths, advised by [Dr. Tobie Kerridge](https://www.gold.ac.uk/design/people/kerridge/), within [Interactions & Experiments Studio](https://www.gold.ac.uk/pg/ma-design-expanded-practice/). In the summer of 2025, I began collaborating with [Prof. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at City University of Hong Kong as a Research Assistant. I also spent a lovely summer research program with [Dr. Eleanor Dare](https://www.cdh.cam.ac.uk/about/people/eleanor-dare/) at the Virtual Reality Experiences group in Cambridge. Prior to Goldsmiths,  I have worked on Interaction Design, Multimedia and Web Development with [Dr. Natalie Culligan](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/natalie-culligan). Recently, I was honored to receive the **Best Oral Presentation award at the IEEE ICEIT 2025 Conference.**<br>
+I am a PhD student in Creative Media at City University of Hong Kong, working with [Prof. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) in the **Studio for Narrative Spaces**.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at -  lli023 [at] gold.ac.uk
+My research explores **game design, generative AI, psychology, multimedia, and social computing**. Before beginning my PhD, I studied in the Department of Design at Goldsmiths, University of London, where I was advised by [Dr. Tobie Kerridge](https://www.gold.ac.uk/design/people/kerridge/) in the [Interactions & Experiments Studio](https://www.gold.ac.uk/pg/ma-design-expanded-practice/). I also joined a summer research programme with [Dr. Eleanor Dare](https://www.cdh.cam.ac.uk/about/people/eleanor-dare/) in the Virtual Reality Experiences group at Cambridge.<br>
 
-**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+I am always open to conversations and collaborations. Feel free to reach out at lli023 [at] gold.ac.uk.
 
 ---
 
